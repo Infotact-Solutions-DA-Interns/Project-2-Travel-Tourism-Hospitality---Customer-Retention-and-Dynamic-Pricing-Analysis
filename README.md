@@ -11,13 +11,13 @@
 ## Key Findings (EDA)
 
 * **Correlation Drivers:** Heatmap analysis identified key churn predictors and their relationships.
-![Correlation Heatmap](Correlation_Heatmap.png)
+![Correlation Heatmap](Images/Correlation_Heatmap.png)
 
 * **Price Sensitivity:** High Average Daily Rates (ADR) correlate positively with increased cancellation rates.
-![ADR vs Cancellation Analysis](ADR_vs_Cancellations.png)
+![ADR vs Cancellation Analysis](Images/ADR_vs_Cancellations.png)
 
 * **Channel Volatility:** The Online Travel Agent (OTA) segment exhibits the highest cancellation risk, while Corporate bookings remain the most stable.
-![Market Segment Cancellation Rate](Cancellation_Rate_by_Segment.png)
+![Market Segment Cancellation Rate](Images/Cancellation_Rate_by_Segment.png)
 
 ## How to Reproduce
 1. Clone the repository.
