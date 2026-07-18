@@ -113,5 +113,5 @@ This project was executed in a structured, four-phase approach, transitioning fr
 
 ## Author
 **Kunal Nilkanth Patle**
-Aspiring Data Business Analytics
+Aspiring Data Analyst
 🔗https://www.linkedin.com/in/kunal-patle-b687a716a/
