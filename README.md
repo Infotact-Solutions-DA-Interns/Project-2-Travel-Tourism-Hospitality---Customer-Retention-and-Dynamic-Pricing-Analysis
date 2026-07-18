@@ -8,7 +8,10 @@ This project is an end-to-end data pipeline, predictive machine learning model, 
 
 
 ## Live Dashboard Link
+### 📊 Executive Dashboard
+![Hotel Dashboard](Images/Dashboard_Screenshot.png)
 
+*Note: Due to organizational tenant restrictions, a live web link is unavailable. Please [click here to view the full PDF export of the dashboard](Dashboards/Hotel_Dashboard_Export.pdf) or download the `.pbix` file to interact with the full data model.*
 
 
 ## Project Overview
